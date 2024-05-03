@@ -252,3 +252,7 @@ preserve = true
 [[files]]
 file = "servers.dat"
 hash = "dab3e90e071ff1562e2a0c8dc06ef58ff71b36acb7efa0a55850a21832c8a757"
+
+[[files]]
+file = "sha1.txt"
+hash = "eb0d961678a45730d122db582dce326602b687dfbd898d42070d17cb15d8dfda"
