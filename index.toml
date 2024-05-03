@@ -55,11 +55,6 @@ hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
 
 [[files]]
-file = "mods/customhud.pw.toml"
-hash = "23813d4ca5f22722ebeb5b652d4d570ffa13686fcbf400504554694810ba3ba5"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "68edb9c0371e1105377db6373e7ccf09275f91cc7ca961b2915b0b32955b9558"
 metafile = true
