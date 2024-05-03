@@ -1,11 +1,28 @@
 {
-    "requestTimeoutSec": 10,
-    "packs": [
-      {
-        "sourceUrl": "https://www.dropbox.com/scl/fo/ouuy0opwc05gn3l43v1np/ABjN4DWjkj9lqf3UkkrrsUY?rlkey=oilspcyhlxzfjsrzivzczvx27&st=9nqe27de&dl=1",
-        "hashUrl": "https://www.dropbox.com/scl/fi/2a32bszd8nydwe5v4jbko/sha1.txt?rlkey=y1fliz4vyoi3iiiolx1zc3rax&st=a6yem9ws&dl=1",
-        "fileName": "Aurora.zip",
-        "name": "Country of Aurora"
-      }
-    ]
+  "requestTimeoutSec": 10,
+  "packs": [
+    {
+      "sourceUrl": "https://www.dropbox.com/scl/fo/ouuy0opwc05gn3l43v1np/ABjN4DWjkj9lqf3UkkrrsUY?rlkey\u003doilspcyhlxzfjsrzivzczvx27\u0026st\u003d9nqe27de\u0026dl\u003d1",
+      "hashUrl": "https://www.dropbox.com/scl/fi/2a32bszd8nydwe5v4jbko/sha1.txt?rlkey\u003dy1fliz4vyoi3iiiolx1zc3rax\u0026st\u003da6yem9ws\u0026dl\u003d1",
+      "fileName": "Aurora.zip",
+      "name": "Aurora"
+    }
+  ],
+  "appearance": {
+    "normal_texture": {
+      "namespace": "jbrph",
+      "texture_path": "textures/normal_texture.png"
+    },
+    "error_texture": {
+      "namespace": "jbrph",
+      "texture_path": "textures/error_texture.png"
+    },
+    "normal_title_color": "0xFFFFFF",
+    "normal_description_color": "0xFFFFFF",
+    "error_title_color": "0xFF0000",
+    "error_description_color": "0xFF0000",
+    "width": 180,
+    "height": 32,
+    "duration": 5000
   }
+}

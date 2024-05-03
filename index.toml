@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/jbrph.json"
-hash = "7ce34f3ae862f5325c973829dfac8a6228bef57fa2f177b84e0c47b07808771d"
+hash = "982f2a35d5f3c5ee2d71a8cbaebd44d8b58470a8bdc728ebf15fe8dbf32a7791"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-nte.pw.toml"
-hash = "fe0ca227e656f1024207bc1a675f32623e5dedd1f7bb5fd75d8b134abc4b96e1"
+hash = "d7c3f50134a6fbf09fd9cce56b4aa8cb5c5f7bcd366288cdd3a34b3beaf84a3d"
 metafile = true
 
 [[files]]
