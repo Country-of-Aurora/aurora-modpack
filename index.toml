@@ -26,6 +26,11 @@ hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
+metafile = true
+
+[[files]]
 file = "mods/colormatic.pw.toml"
 hash = "e1b36903e2996b4ef44d5a53d6f7fad2ce7c459a4d5d4499b2ebeb06e4bf9369"
 metafile = true
@@ -153,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
+metafile = true
+
+[[files]]
+file = "mods/prefab-fabric.pw.toml"
+hash = "dcc34f0e94aa2ebd0e4e5851f60f1734c1d5ffb0974a49e0b953a2da78020833"
 metafile = true
 
 [[files]]
