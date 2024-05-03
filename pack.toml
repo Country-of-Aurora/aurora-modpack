@@ -1,0 +1,13 @@
+name = "Country of Aurora"
+author = "Country of Aurora"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5958d5ab9844f66205e86a17f36cb515f12f4e31789d1a2e6fce66474779a26e"
+
+[versions]
+fabric = "0.15.10"
+minecraft = "1.19.2"

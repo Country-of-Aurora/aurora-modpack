@@ -1,0 +1,8 @@
+name = "Colormatic"
+filename = "colormatic-3.1.2+mc.1.19.jar"
+side = "client"
+
+[download]
+url = "https://github.com/kvverti/colormatic/releases/download/3.1.2/colormatic-3.1.2+mc.1.19.jar"
+hash-format = "sha256"
+hash = "321C0525DB0C818A9F5543BBDE19A7C82176A6AE495953E13551430485E80FB3"

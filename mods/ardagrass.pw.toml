@@ -1,0 +1,13 @@
+name = "ArdaGrass"
+filename = "ArdaGrass-1.0-SNAPSHOT.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/90wM2vXN/versions/fnk0S4Dz/ArdaGrass-1.0-SNAPSHOT.jar"
+hash-format = "sha1"
+hash = "e173cabed0a934e8975124b9088b11b27652de44"
+
+[update]
+[update.modrinth]
+mod-id = "90wM2vXN"
+version = "fnk0S4Dz"
