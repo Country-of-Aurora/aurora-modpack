@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/jbrph.json"
-hash = "982f2a35d5f3c5ee2d71a8cbaebd44d8b58470a8bdc728ebf15fe8dbf32a7791"
+hash = "b706cf430e01b5836c3720d971797ad65f1719738c1a6bdc981cf8ac4ab726ed"
 
 [[files]]
 file = "mods/animatica.pw.toml"
