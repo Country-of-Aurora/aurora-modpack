@@ -232,9 +232,9 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b1aae692d46aef3d93c35289e9748ce15e152b126317bcd87adc55593e5f9f55"
+hash = "37710636c39ea30f9bd757339c07f52da9eff8b5ed946dd5f7efd847e82535ad"
 preserve = true
 
 [[files]]
 file = "servers.dat"
-hash = "DAB3E90E071FF1562E2A0C8DC06EF58FF71B36ACB7EFA0A55850A21832C8A757"
+hash = "dab3e90e071ff1562e2a0c8dc06ef58ff71b36acb7efa0a55850a21832c8a757"
