@@ -1,0 +1,11 @@
+{
+    "requestTimeoutSec": 10,
+    "packs": [
+      {
+        "sourceUrl": "https://www.dropbox.com/scl/fo/ouuy0opwc05gn3l43v1np/ABjN4DWjkj9lqf3UkkrrsUY?rlkey=oilspcyhlxzfjsrzivzczvx27&st=9nqe27de&dl=1",
+        "hashUrl": "https://www.dropbox.com/scl/fi/2a32bszd8nydwe5v4jbko/sha1.txt?rlkey=y1fliz4vyoi3iiiolx1zc3rax&st=a6yem9ws&dl=1",
+        "fileName": "Aurora.zip",
+        "name": "Country of Aurora"
+      }
+    ]
+  }

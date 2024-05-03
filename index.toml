@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/jbrph.json"
+hash = "7ce34f3ae862f5325c973829dfac8a6228bef57fa2f177b84e0c47b07808771d"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
@@ -168,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
+metafile = true
+
+[[files]]
+file = "mods/rphelper.pw.toml"
+hash = "fd9a88621497f9bb0e2c7b404cce49a6eb8f739cd3d4755a7ba8c04bceedbe34"
 metafile = true
 
 [[files]]

@@ -1,0 +1,8 @@
+name = "RPHelper"
+filename = "JobanRPHelper-1.0.4.jar"
+side = "client"
+
+[download]
+url = "https://github.com/DistrictOfJoban/RPHelper/releases/download/1.0.4/JobanRPHelper-1.0.4.jar"
+hash-format = "sha256"
+hash = "B58CA2725157418B7B6C4FDADF204036F16423B2727A9D5BF02872594FD2EE68"
