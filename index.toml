@@ -5,13 +5,28 @@ file = "config/jbrph.json"
 hash = "b706cf430e01b5836c3720d971797ad65f1719738c1a6bdc981cf8ac4ab726ed"
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "7d7e1d896b2a5965ac6c0dfed6a2c4343de2137124bc46c26913df7d07b4bb15"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6064baf49dee806afd111ebf89bbad222a5f023e5fd2324b7b0820cd78553117"
+metafile = true
+
+[[files]]
 file = "mods/ardagrass.pw.toml"
 hash = "f32542167a938eb2ff8d858dc25ca9d6ce19c5bb1bd14ed048cac72a7d00739e"
+metafile = true
+
+[[files]]
+file = "mods/bushier-flowers.pw.toml"
+hash = "20e5906f9f7918d58a4e90e1e89691a1fac8ce351ce23a98c694acf19b42c2a7"
 metafile = true
 
 [[files]]
@@ -40,6 +55,11 @@ hash = "e1b36903e2996b4ef44d5a53d6f7fad2ce7c459a4d5d4499b2ebeb06e4bf9369"
 metafile = true
 
 [[files]]
+file = "mods/concrete-plus.pw.toml"
+hash = "6a62d31b109b6a708c2a78fe3e29d51bc9a72c8231f13576db95538626c1a0d0"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
@@ -55,6 +75,11 @@ hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
 
 [[files]]
+file = "mods/duckling.pw.toml"
+hash = "5d1bc03ab200de1c0095b2eb8be4354f6860e1ace61abac4d8e53b29fc4c044d"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "68edb9c0371e1105377db6373e7ccf09275f91cc7ca961b2915b0b32955b9558"
 metafile = true
@@ -66,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+hash = "ffc481992126189a9c15e1e8693bbc3477d8f76334edc2c220459a6ad8b4c7cc"
 metafile = true
 
 [[files]]
@@ -92,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "73c8ecd7e5177807be5b4155f4c3e5a0f8e8f02f7422b716059dbe7a6b62c603"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "febe79b541e162e6789eedbe66a4ecf00fe66d9838f23c3bc3d3c1683704f910"
 metafile = true
 
 [[files]]
@@ -135,6 +165,16 @@ hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
 
 [[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "3127ae3b7c7495d28b0733dde8f66b71c4387370a439a5aae906cb5c648de590"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "6ef88737b35c6827f28e174eb7d2b9390e14ca5a052410b29d98f3e93c1047db"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "a8c9353a4a5b4d08823f39e13dd10f04e1c884e5fa5aedae511a26d111a76d8a"
 metafile = true
@@ -157,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
+metafile = true
+
+[[files]]
+file = "mods/pot-leaves.pw.toml"
+hash = "934a1ddc122af6aaff2a89d2ac06ec308f070d5deb60103e76cb9864ea488069"
 metafile = true
 
 [[files]]
@@ -242,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/yuushya-townscape.pw.toml"
+hash = "aca4e499f141d11247e6b0be2dadd6e4683206c51072b5baf4a801b2f40d77eb"
 metafile = true
 
 [[files]]

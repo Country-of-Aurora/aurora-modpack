@@ -1,0 +1,13 @@
+name = "Concrete Plus[Fabric]"
+filename = "pandamc_concreteplus-1.9.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b373b559ad24e8980c5081dae9b10b95b1151fed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3934059
+project-id = 439266
