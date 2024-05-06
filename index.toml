@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-notify.pw.toml"
-hash = "e0091cf5df966438c41a14725c81a578bdf304087b386404701068c11544949f"
+hash = "b06085ecbfd83e14a7433084dda80a870fd54f47b3539ea8d8e6eec4c31f71e1"
 metafile = true
 
 [[files]]

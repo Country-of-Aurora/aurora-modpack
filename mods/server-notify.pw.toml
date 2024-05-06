@@ -1,13 +1,13 @@
 name = "Server Notify"
-filename = "server-notify-fabric-1.19.2-1.0.1.jar"
+filename = "server-notify-fabric-1.19.2-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UvX330gZ/versions/fqEFDWVu/server-notify-fabric-1.19.2-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/UvX330gZ/versions/nWevY1RI/server-notify-fabric-1.19.2-1.0.2.jar"
 hash-format = "sha1"
-hash = "2186f57fabf4c21071cc5ffd92bc712587cf31b0"
+hash = "3154827913d87b620b90b3acdf8a5bf13085006d"
 
 [update]
 [update.modrinth]
 mod-id = "UvX330gZ"
-version = "fqEFDWVu"
+version = "nWevY1RI"
