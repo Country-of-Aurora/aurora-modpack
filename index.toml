@@ -106,12 +106,12 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "e2ce890a206d6ad6807c2bc85559159eef55426566e982c4e05c14d3ae7033f7"
+hash = "1222ae255fc0ccd134ebfad5f6ef0ffcdd5ff018ab1fdfdc488f2ad74f065937"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9cf270ff7a0bda4769db11197f43698ebc105e81870d6e7f6b9979c1dbd38ae9"
+hash = "8fc8b24906c29d31ffc068feb25f89461979298f6e04716b380a34c315cd2015"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "a8c9353a4a5b4d08823f39e13dd10f04e1c884e5fa5aedae511a26d111a76d8a"
+hash = "e9b9c15a2c92654860607bc810b4980f46ff8fe10fb6ec3fbb516aee3de6cfc1"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/slideshow-fabric.pw.toml"
-hash = "8fbc9c1c6bfe9eaed2e16603895d2a4cea4fede794fe8701b448addba73a326a"
+hash = "94e99955796db9f744b03073acd57ffcddb23421e196afb083d3a8b3f15305f5"
 metafile = true
 
 [[files]]
@@ -201,12 +201,12 @@ metafile = true
 
 [[files]]
 file = "mods/station-decoration.pw.toml"
-hash = "19c234dccae3896624b605a204e738f4117913f963210c1da27d696fe457e2d1"
+hash = "7ed3bbb80bcc40eed1fde3b5b2956698844859bc3962f29151aa4519d7709321"
 metafile = true
 
 [[files]]
 file = "mods/the-tube.pw.toml"
-hash = "e901efbb79f0e68354308fac973e9b45d7e39202ae27a05abaaaa02bc4b72dc1"
+hash = "589021c1d4332ec538ca9d41653c4b928ed1d0273c95c16d89fd323e0d5591f7"
 metafile = true
 
 [[files]]
