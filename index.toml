@@ -75,6 +75,11 @@ hash = "9cdd6767e3a3622ef53706bc9737c8ad771cf08590c7053b86a0c639f447b379"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
@@ -101,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "1222ae255fc0ccd134ebfad5f6ef0ffcdd5ff018ab1fdfdc488f2ad74f065937"
+hash = "d615c2663dcb03432b389d6dd99234cc8f1354a07eac4fb51660e078c64d3bfa"
 metafile = true
 
 [[files]]
