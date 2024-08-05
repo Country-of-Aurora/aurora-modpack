@@ -1,13 +1,14 @@
-name = "MTR London Underground Addon"
-filename = "MTR-London-Underground-Addon-fabric-2.2.0+1.19.2.jar"
+name = "The Tube"
+filename = "MTR-LU-Addon-fabric-1.19.2-3.2.0-2.0.8.jar"
 side = "both"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/jrAXj11W/versions/HNPC3xdh/MTR-London-Underground-Addon-fabric-2.2.0%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/jrAXj11W/versions/2J4pTSBu/MTR-LU-Addon-fabric-1.19.2-3.2.0-2.0.8.jar"
 hash-format = "sha1"
-hash = "9cd9c781494013bfe9dc4fb1f9930685f255b8fe"
+hash = "1ca1cfda8df668ae1acd7e6ccd305644994a4e4e"
 
 [update]
 [update.modrinth]
 mod-id = "jrAXj11W"
-version = "HNPC3xdh"
+version = "2J4pTSBu"
