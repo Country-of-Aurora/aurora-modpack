@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/station-decoration.pw.toml"
-hash = "e16f786fbed343967e24f688f9210ca4019dea2f1b4aa7bfe3ac46381f595fb8"
+hash = "72bf9a57aa3b800dfa3d4f2a2c1b42bddc7b4b4d9ea36476f29b3d8af7528a56"
 metafile = true
 
 [[files]]
