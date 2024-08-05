@@ -3,8 +3,8 @@ on:
   # Triggers the workflow every 2 hours
   push:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * 0"
+  # schedule:
+  #   - cron: "0 0 * * 0"
  
 jobs:
   update:
