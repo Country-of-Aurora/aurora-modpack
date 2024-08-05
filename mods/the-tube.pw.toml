@@ -1,14 +1,14 @@
 name = "The Tube"
-filename = "MTR-LU-Addon-fabric-1.19.2-3.2.0-2.0.8.jar"
+filename = "MTR-LU-Addon-fabric-1.19.2-2.1.2-hotfix2.jar"
 side = "both"
 pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/jrAXj11W/versions/2J4pTSBu/MTR-LU-Addon-fabric-1.19.2-3.2.0-2.0.8.jar"
+url = "https://cdn.modrinth.com/data/jrAXj11W/versions/ER9g5iD3/MTR-LU-Addon-fabric-1.19.2-2.1.2-hotfix2.jar"
 hash-format = "sha1"
-hash = "1ca1cfda8df668ae1acd7e6ccd305644994a4e4e"
+hash = "7be990be78e4f85bdb1b31eab68a1cb5caf3da9c"
 
 [update]
 [update.modrinth]
 mod-id = "jrAXj11W"
-version = "2J4pTSBu"
+version = "ER9g5iD3"
