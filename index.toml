@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8ecfef14ffdeca29009276871478b7c6cff829bd74bf8aa5d6e95fc1b9fa5415"
+hash = "5c597cd4ae5e590e1ee088f3ee679879e03f244fc277c4d39aed90e9860844c2"
 metafile = true
 
 [[files]]
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-nte.pw.toml"
-hash = "d7c3f50134a6fbf09fd9cce56b4aa8cb5c5f7bcd366288cdd3a34b3beaf84a3d"
+hash = "bf1e350d0ec29d8099af084b6f096a971e99c8fa13031c57520a166ff23ba52b"
 metafile = true
 
 [[files]]
