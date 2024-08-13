@@ -1,8 +1,7 @@
-name = "Nemo's Transit Expansion"
-filename = "MTR-NTE-0.4.2+joban+1.19.2.jar"
-side = "client"
+name = "mtr-nte"
+filename = "MTR-NTE-0.5.2+joban+1.19.2.jar"
 
 [download]
-url = "https://github.com/DistrictOfJoban/mtr-nte-json/releases/download/0.4.2%2Bfork.3/MTR-NTE-0.4.2+joban+1.19.2.jar"
+url = "https://github.com/DistrictOfJoban/mtr-nte-json/releases/download/0.5.2%2Bfork.5/MTR-NTE-0.5.2+joban+1.19.2.jar"
 hash-format = "sha1"
-hash = "077C00ABEAB07FB51937F20D3310EEC7AE945046"
+hash = "8aa3b571c5091b5f7bc42a380854a25c1d91933b"
